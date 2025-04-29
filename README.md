@@ -40,6 +40,4 @@ This project demonstrates four types of array memory management using both **C++
 
 ---
 
-## 🧑‍💻 Author
 
-- **Akash** — All examples are written using your name in functions and classes.
